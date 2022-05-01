@@ -36,13 +36,7 @@ yarn watch
 
 Open `index.html` with a modern web browser.
 
-[Live Demo](https://silwalanish.github.io/clrparser/index.html)
-
-## Documentation
-
-[Documentation Here](https://silwalanish.github.io/clrparser/docs/)
-
-Generate documentation
+[Live Demo](https://pdhankhar61.github.io/clr-parser/)
 
 ```bash
 yarn docs
